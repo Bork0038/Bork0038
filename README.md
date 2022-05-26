@@ -1,6 +1,6 @@
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="75%">
 
 &nbsp; <br>  [![Discord Presence](https://lanyard.cnrad.dev/api/468812867194322945)](https://discord.com/users/468812867194322945)
     
