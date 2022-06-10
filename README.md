@@ -14,7 +14,7 @@
   </td>
 </table>
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, my name's Chris (a.k.a bork)
+## Hi, my name's Chris (a.k.a bork)
 I am a 17 year old full-stack developer from Montreal, Canada. 
 
 ## 🔨 Languages and Tools
