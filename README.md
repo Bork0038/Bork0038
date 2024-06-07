@@ -1,3 +1,4 @@
+
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -26,3 +27,6 @@ I am a 19 year old full-stack developer from Montreal, Canada.
 
 ## 📄 Portfolio 
 <img src="https://github.com/Bork0038/Bork0038/blob/main/portfolio.svg" height="100%" width="80%">
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/71100852?v=4');]{x0000}$}
